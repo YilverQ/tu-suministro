@@ -3,12 +3,14 @@
 <head>
 	<!-- Meta -->
 	<meta charset="utf-8">
-	<meta name="author" content="Yilver Quevedo- De Infover & Enclick Soluciones">
-	<meta name="description" content="Suministro De Papelería En Caracas">
+	<meta http-equiv="X-UA-Compatible" content="ie-edge">
+	<meta name="author" content="Yilver Quevedo De Enclick Soluciones">
+	<meta name="keywords" content="Suminstros, Suministro, suministros de productos, Suministros en Caracas, suministros de papelería, papelería y artículos de oficina.">
+	<meta name="description" content="No dudes en contactarnos, siempre estamos disponible para atenderte y ofrecerte tu inventario de suministros y así no tener que pasar malos ratos. ">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<!-- Title -->
-	<title>Tu Suministro - Contactanos</title>
+	<title>Tu Suministro - Contactanos, la mejor opción de suministros en Caracas.</title>
 
 	<!-- Estilos -->
 	<link rel="stylesheet" type="text/css" href="estilos/normalize.css">
@@ -27,7 +29,7 @@
 				<div class="sabana">
 				<div class="textoHEADER">
 					<h1>Contactanos.</h1>
-					<p>No dudes en contactarnos para tener siempre tú inventario de suministros y evitar malos momentos.</p>
+					<p>No dudes en contactarnos para tener siempre tu inventario de suministros y evitar malos momentos.</p>
 				</div>
 				</div>
 			</div>
@@ -38,7 +40,12 @@
 	<div class="textoContact">
 		<h2>Te invitamos a contactarnos.</h2>
 		<div class="infoContact">
-			<p>Puedes escribirnos a: <span>tusuministrovzla@gmail.com</span>, <span>tusuministro@hotmail.com</span> o llamarnos al: <span>0212-424-2684</span>, <span>0414-397-6743</span>.</p>
+			<p>Puedes escribirnos a: </p>
+			<p class="datosDeContacto">tusuministrovzla@gmail.com</p> 
+			<p class="datosDeContacto">tusuministro@hotmail.com</p> 
+			<p>o llamarnos al: </p>
+			<p class="datosDeContacto">0212-424-2684</p> 
+			<p class="datosDeContacto">0414-397-6743</p>
 			<p class="pInterno">Dejanos un mensaje y nuestro equipo se pondrá en contacto contigo ¡Cuánto antes!</p>
 		</div>
 	</div>

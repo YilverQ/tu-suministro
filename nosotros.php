@@ -3,12 +3,14 @@
 <head>
 	<!-- Meta -->
 	<meta charset="utf-8">
-	<meta name="author" content="Yilver Quevedo- De Infover & Enclick Soluciones">
-	<meta name="description" content="Suministro De Papelería En Caracas">
+	<meta http-equiv="X-UA-Compatible" content="ie-edge">
+	<meta name="author" content="Yilver Quevedo De Enclick Soluciones">
+	<meta name="keywords" content="Suminstros, Suministro, suministros de productos, Suministros en Caracas, suministros de papelería, papelería y artículos de oficina.">
+	<meta name="description" content="Somos una organización de amplia trayectoria dedicada a la venta de artículos de oficina, papelería, consumibles de impresión, material POP, material publicitario, bioproteccion, equipos de seguridad industrial, ubicada en la ciudad de Caracas.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<!-- Title -->
-	<title>Tu Suministro - Nosotros</title>
+	<title>Tu Suministro - ¿Qué es tu suministro?</title>
 
 	<!-- Estilos -->
 	<link rel="stylesheet" type="text/css" href="estilos/normalize.css">
@@ -27,7 +29,7 @@
 				<div class="sabana">
 				<div class="textoHEADER">
 					<h1>¿Qué es <span class="titleH1">Tu Suministro</span>?</h1>
-					<p id="textoNosotros">Somos una organización de amplia trayectoria dedicada a la venta de artículos de oficina, papelería, consumibles de impresión, material POP, material publicitario, bioproteccion, equipos de seguridad industrial y productos de limpieza, ubicada en la ciudad de Caracas, nuestra área de atención abarca todo el distrito Metropolitano de Caracas, Edo. Vargas y Altos Mirandinos, contamos con personal calificado y presto a resolver cualquier inquietud, toma de pedidos y despacho.</p>
+					<p id="textoNosotros">Somos una organización de amplia trayectoria dedicada a la venta de artículos de oficina, papelería, consumibles de impresión, material POP, material publicitario, bioproteccion, equipos de seguridad industrial y productos de lLimpieza, ubicada en la ciudad de Caracas, nuestra área de atención abarca todo el distrito Metropolitano de Caracas, Edo. Vargas y Altos Mirandinos, contamos con personal calificado y presto a resolver cualquier inquietud, toma de pedidos y despacho.</p>
 				</div>
 				</div>
 			</div>

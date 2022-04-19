@@ -1,9 +1,9 @@
 <?php  
 
-	//$destinatario = "tusuministrovzla@gmail.com";
-	//$destinatario2 = "tusuministro@hotmail.com";
-	$destinatario = "yilver0906@gmail.com";
-	//Correo al que llegarán los mensajes.
+	//Correos al que llegarán los mensajes.
+	$destinatario = "tusuministrovzla@gmail.com";
+	$destinatario2 = "tusuministro@hotmail.com";
+	//$destinatario = "yilver0906@gmail.com";
 	
 	//Variables
 	$nombre	 = $_POST["nombre"];
@@ -19,7 +19,7 @@
 	$carta  = $carta . "Mensaje: " . $mensaje . "\n";
 
 	mail($destinatario, $asunto, $carta);
-	//mail($destinatario2, $asunto, $carta);
+	mail($destinatario2, $asunto, $carta);
 	echo "<script>alert('correo enviado exitosamente.')</script>";
 	echo "<script>setTimeout(\"location.href='contactanos.php'\",1000)</script>";
 ?>

@@ -3,12 +3,14 @@
 <head>
 	<!-- Meta -->
 	<meta charset="utf-8">
-	<meta name="author" content="Yilver Quevedo- De Infover & Enclick Soluciones">
-	<meta name="description" content="Suministro De Papelería En Caracas">
+	<meta http-equiv="X-UA-Compatible" content="ie-edge">
+	<meta name="author" content="Yilver Quevedo De Enclick Soluciones">
+	<meta name="keywords" content="Suminstros, Suministro, suministros de productos, Suministros en Caracas, suministros de papelería, papelería y artículos de oficina.">
+	<meta name="description" content="Suministros de productos en Caracas, aquí en tu suministro encontrarás gran variedad de productos para tus distintas necesidades. Recuerda, nuestro trabajo es hacer más fácil el tuyo.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<!-- Title -->
-	<title id="titleTitle">Tu Suministro - </title>
+	<title id="titleTitle">Suministros de </title>
 	
 
 	<!-- Estilos -->

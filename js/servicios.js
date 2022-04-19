@@ -2,7 +2,7 @@
 
 let definiciones = ["Lápices, bolígrafos, resmas, pizarras y mucho más.",
 					"Desinfectante, cloro, coletos, escobas y mucho más.",
-					"Cartuchos, tones, cintas y tintas.",
+					"Cartuchos, toners, cintas y tintas.",
 					"Pendones, tarjetas, trípticos, vasos y jarras.",
 					"Mascarillas, gel antibacterial, guantes y mucho más.",
 					"Botas, cascos, lentes, guantes y mucho más."];

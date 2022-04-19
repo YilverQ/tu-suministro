@@ -22,7 +22,7 @@
 				<div class="menuMenu">
 				<ul class="submenu">
 					<a href="/servicio.php?producto=oficina"><li>Papelería y artículos de oficina.</li></a>
-					<a href="/servicio.php?producto=limpieza"><li>Articulos de limpieza.</li></a>
+					<a href="/servicio.php?producto=limpieza"><li>Artículos de limpieza.</li></a>
 					<a href="/servicio.php?producto=consumibles"><li>Consumibles de impresión.</li></a>
 					<a href="/servicio.php?producto=impresos"><li>Impresos publicitarios y POP.</li></a>
 					<a href="/servicio.php?producto=bioproteccion"><li>Bioprotección.</li></a>

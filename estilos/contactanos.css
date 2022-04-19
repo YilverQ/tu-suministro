@@ -313,8 +313,12 @@ header.contenedor{
     flex-flow: column nowrap;
 }
 .infoContact p{
-    margin-bottom: 5px;
     text-align: center;
+}
+.datosDeContacto{
+    color: black;
+    font-size: fuente2;
+    font-weight: 700;
 }
 .infoContact span{
     color: black;
