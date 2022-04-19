@@ -1,1 +1,0 @@
-<img src="images/head/valores.jpg" width="990" height="320" alt="Tu Suministro"/>
