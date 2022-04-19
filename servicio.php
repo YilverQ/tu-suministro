@@ -24,17 +24,17 @@
 	<?php
 		$servicios =["oficina" => "Papelería y artículos de oficina",
 					 "limpieza" => "Artículos de limpieza",
-					 "consumibles" => "Consumibles",
+					 "consumibles" => "Consumibles de impresión",
 					 "impresos" => "Impresos publicitarios y POP",
-					 "higiene" => "Higiene personal",
-					 "proteccion" => "Protección personal"];
+					 "bioproteccion" => "Bioprotección",
+					 "seguridad" => "Equipos de protección industrial"];
 
-		$conceptos =["oficina" => "Sólo la mejor calidad de artículos de oficina, para el hogar y escolar están aquí.",
-					 "limpieza" => "La limpieza es importante, por eso te ofrecemos los mejores productos para tu espacio de trabajo, oficina u hogar.",
-					 "consumibles" => "La mejor calidad en consumibles para tu impresora está aquí.",
-					 "impresos" => "Te ofrecemos imagenes coorporativas, impresos publicitarios y materiales POP.",
-					 "higiene" => "Tenemos para ti la más amplia variedad de productos para la higiene personal.",
-					 "proteccion" => "La seguridad es lo primero, protege a tu personal con los productos de mayor durabilidad y resistencia."];
+		$conceptos =["oficina" => "Todo el material de papelería que necesitas para tu oficina, negocio o emprendimiento lo encontrarás acá, al mejor precio y con la garantía de las mejores marcas del mercado.",
+					 "limpieza" => "Trabajar en un lugar limpio y aseado siempre es lo deseado, para eso te ofrecemos productos de calidad, excelente rendimiento y precios inigualables.",
+					 "consumibles" => "No te quedes sin imprimir en ese momento tan importante, los mejores consumibles originales y compatibles los tenemos para ti.",
+					 "impresos" => "Soluciones gráficas para tu empresa, pendones, carpetas, tarjetas de presentación y material POP en un solo lugar.",
+					 "bioproteccion" => "El mundo cambió y para proteger tu salud contamos con los mejores productos del mercado, garantizando la Bioprotección del ambiente de trabajo y del personal que en él labore.",
+					 "seguridad" => "Trabajar seguro, sin riesgo y protegido es una regla. Por eso te ofrecemos productos con altos estándares de calidad y adaptados a normas internacionales."];
 	?>
 	<p id="noneID" style="display:none;"><?php echo $servicios[$_GET['producto']]; ?></p>
 
@@ -44,7 +44,7 @@
 			<?php echo "<div class='contenido-slider sliderItem-" . $_GET["producto"] ."'>"; echo "\n";?>
 				<div class="sabana">
 				<div class="textoHEADER">
-					<h1><?php echo $servicios[$_GET['producto']]; ?></h1>
+					<h1><?php echo $servicios[$_GET['producto']]; ?>.</h1>
 					<p><?php echo $conceptos[$_GET['producto']] ?></p>
 				</div>
 				</div>
@@ -54,7 +54,7 @@
 
 	<!-- Productos Del Servicio -->
 	<div class="identidad">
-		<h2><?php echo $servicios[$_GET['producto']]; ?></h2>
+		<h2><?php echo $servicios[$_GET['producto']]; ?>.</h2>
 		<?php
 
 			require_once("templates/productos.php");

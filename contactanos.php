@@ -27,12 +27,21 @@
 				<div class="sabana">
 				<div class="textoHEADER">
 					<h1>Contactanos.</h1>
-					<p>No dudes en contactarnos para tener siempre tú inventario de suministros y evitar malos momentos. Puedes contactarnos a través de nuestras redes sociales, número de teléfono o correo.</p>
+					<p>No dudes en contactarnos para tener siempre tú inventario de suministros y evitar malos momentos.</p>
 				</div>
 				</div>
 			</div>
 		</div>
 	</header>
+
+	<!--Texto-->
+	<div class="textoContact">
+		<h2>Te invitamos a contactarnos.</h2>
+		<div class="infoContact">
+			<p>Puedes escribirnos a: <span>tusuministrovzla@gmail.com</span>, <span>tusuministro@hotmail.com</span> o llamarnos al: <span>0212-424-2684</span>, <span>0414-397-6743</span>.</p>
+			<p class="pInterno">Dejanos un mensaje y nuestro equipo se pondrá en contacto contigo ¡Cuánto antes!</p>
+		</div>
+	</div>
 
 	<!-- Formulario De Contacto -->
 	<div class="formulario">
@@ -53,7 +62,7 @@
 				</div>
 				<div class="grupo" id="numero__grupo">
 					<label>Mensaje.</label>
-					<textarea class="textareaFORM" name="mensaje" id="" rows="4" cols="30" required="True"></textarea>
+					<textarea class="textareaFORM" name="mensaje" id="mensaje" rows="4" cols="30" required="True"></textarea>
 				</div>
 				<button class="BotonEnviar" type="submit" disabled="true">Enviar.</button>
 			</div>

@@ -1,7 +1,7 @@
 <!-- Inicio -->
 	<div class="ubicacion">
 		<div class="imagenUbicacion">
-			<a href="https://maps.app.goo.gl/rsp8vrsBKnE4MxmcA" target="_blank"><div class="sabanaUbicacion"></div></a>
+			<a href="https://maps.app.goo.gl/rsp8vrsBKnE4MxmcA" target="_blank"></a>
 			<!-- Imagen del Mapa / Puede ser modificado -->
 			<img src="img/mapa-tu-suministro.jpg" alt="ubicación de empresa en Caracas"/>
 		</div>

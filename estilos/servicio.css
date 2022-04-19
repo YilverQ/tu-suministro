@@ -256,7 +256,7 @@ header.contenedor{
 .sabana{
     width: 100%;
     height: 100vh;
-    background:linear-gradient(to right, rgba(49,39,130, .2), rgba(49,39,130, .5), rgba(49,39,130, .8));
+    background:linear-gradient(to right, rgba(10,10,10, .2), rgba(10,10,10, .3), rgba(10,10,10, .5));
     display: flex;
     align-items: center;
 }
@@ -301,7 +301,7 @@ header.contenedor{
     background-position: center;
     background-attachment: fixed;
 }
-.sliderItem-higiene{
+.sliderItem-bioproteccion{
     width: 100%;
     height: 85vh;
     background: url("../img/header/producto5.jpg");
@@ -309,7 +309,7 @@ header.contenedor{
     background-position: center;
     background-attachment: fixed;
 }
-.sliderItem-proteccion{
+.sliderItem-seguridad{
     width: 100%;
     height: 85vh;
     background: url("../img/header/producto6.jpg");
@@ -319,30 +319,23 @@ header.contenedor{
 }
 
 .contenido-slider .textoHEADER{
-    width: 500px;
+    width: 550px;
     margin-left: 10%;
     animation: moverArriba 1s;
 }
 
 .contenido-slider div h1{
-    color: #0b6732;
-    font-size: 25px;
-    background: white;
-    text-align: center;
+    color: white;
+    font-size: 35px;
     padding: 5px 0;
-    border-radius: 2px;
-    box-shadow: .5px .5px 2px rgba(10, 10, 10, .5);
-}
-
-.contenido-slider h1 span{
-    color: #312782;
-    font-family: fuente3;
+    text-shadow: 1px 1px 1px rgba(10, 10, 10, 1);
 }
 
 .contenido-slider div p{
     color: white;
     font-size: 16px;
     margin-top: 10px;
+    text-shadow: 1px 1px 1px rgba(10, 10, 10, .7);
 }
 /*FIN DEL HEADER*/
 

@@ -27,7 +27,7 @@
 				<div class="sabana">
 				<div class="textoHEADER">
 					<h1>¿Qué es <span class="titleH1">Tu Suministro</span>?</h1>
-					<p>Es una empresa que busca hacer más fácil tu trabajo, nos ocupamos por ti para suministrar los artículos para todo propósito en casa, oficina, industria y todas las ramas comerciales. Ofrecemos calidad y desempeño a la altura de tus necesidades y nos sentimos orgullosos de poder brindarle a todos nuestros clientes el mejor servicio y atención.</p>
+					<p id="textoNosotros">Somos una organización de amplia trayectoria dedicada a la venta de artículos de oficina, papelería, consumibles de impresión, material POP, material publicitario, bioproteccion, equipos de seguridad industrial y productos de limpieza, ubicada en la ciudad de Caracas, nuestra área de atención abarca todo el distrito Metropolitano de Caracas, Edo. Vargas y Altos Mirandinos, contamos con personal calificado y presto a resolver cualquier inquietud, toma de pedidos y despacho.</p>
 				</div>
 				</div>
 			</div>
@@ -42,7 +42,6 @@
 				<p>Ofrecerle a nuestros clientes soluciones en todo lo relacionado a la comercialización y distribución de artículos de papelería, limpieza, consumibles y otros servicios. Con un alto sentido de profesionalismo, ética y responsabilidad.</p>
 			</div>
 			<div class="misionIMG IMGmision">
-				<div class="sabanaIdentidad"></div>
 			</div>
 		</div>
 		<div class="mision vision">
@@ -51,7 +50,6 @@
 				<p>Robustecer nuestros canales de distribución para posicionarnos como la empresa líder en la comercialización de suministros para industrias, oficinas, restaurantes, condominios, tiendas y otras empresas.</p>
 			</div>
 			<div class="misionIMG IMGvision">
-				<div class="sabanaIdentidad"></div>
 			</div>
 		</div>
 	</div>
@@ -98,5 +96,6 @@
 
 	<!-- Archivos JS -->
     <script src="js/boton_disabled.js"></script>
+    <script src="js/replaceTextNosotros.js"></script>
 </body>
 </html>

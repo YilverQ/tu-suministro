@@ -39,40 +39,40 @@
 		<h3>Variedad de productos para diferentes necesidades.</h3>
 		<p>Dónde la calidad no se negocia, las mejores marcas y los mejores productos están aquí.</p>
 		<div class="caja">
-			<a href="/servicio.php?producto=oficina">	
+			<a href="/servicio.php?producto=oficina" onmouseover="pintar(0)" onmouseout="pintarDefault(0)">	
 				<div class="tarjeta">
 					<img src="img/servicios/papeleria-y-articulos-de-oficina.png" alt="articulos de oficina" />
-					<p>Papelería y artículos de oficina.</p>
+					<p class="itemP">Papelería y artículos de oficina.</p>
 				</div>
 			</a>
-			<a href="/servicio.php?producto=limpieza">
+			<a href="/servicio.php?producto=limpieza" onmouseover="pintar(1)" onmouseout="pintarDefault(1)">
 				<div class="tarjeta">
 					<img src="img/servicios/articulos-de-limpieza.png" alt="articulos de limpieza" />
-					<p>Artículos de limpieza.</p>
+					<p class="itemP">Artículos de limpieza.</p>
 				</div>
 			</a>
-			<a href="/servicio.php?producto=consumibles">
+			<a href="/servicio.php?producto=consumibles" onmouseover="pintar(2)" onmouseout="pintarDefault(2)">
 				<div class="tarjeta">
 					<img src="img/servicios/consumibles.png" alt="cartuchos de impresora" />
-					<p>Consumibles.</p>
+					<p class="itemP">Consumibles de impresión.</p>
 				</div>
 			</a>
-			<a href="/servicio.php?producto=impresos">
+			<a href="/servicio.php?producto=impresos" onmouseover="pintar(3)" onmouseout="pintarDefault(3)">
 				<div class="tarjeta">
 					<img src="img/servicios/impresos-publicitarios-y-POP.png" alt="impresos publicitarios" />
-					<p>Impresos publicitarios y POP.</p>
+					<p class="itemP">Impresos publicitarios y POP.</p>
 				</div>
 			</a>
-			<a href="/servicio.php?producto=higiene">
+			<a href="/servicio.php?producto=bioproteccion" onmouseover="pintar(4)" onmouseout="pintarDefault(4)">
 				<div class="tarjeta">
-					<img src="img/servicios/higiene-personal.png" alt="higiene personal" />
-					<p>Higiene personal.</p>
+					<img src="img/servicios/higiene-personal.png" alt="bioproteccion" />
+					<p class="itemP">Bioprotección.</p>
 				</div>
 			</a>
-			<a href="/servicio.php?producto=proteccion">
+			<a href="/servicio.php?producto=seguridad" onmouseover="pintar(5)" onmouseout="pintarDefault(5)">
 				<div class="tarjeta">
-					<img src="img/servicios/seguridad-personal.png" alt="seguridad personal" />
-					<p>Protección personal.</p>
+					<img src="img/servicios/seguridad-personal.png" alt="equipos de seguridad industrial" />
+					<p class="itemP">Equipos de seguridad industrial.</p>
 				</div>
 			</a>
 		</div>
@@ -88,5 +88,6 @@
 
 	<!-- Archivos JS -->
     <script src="js/boton_disabled.js"></script>
+    <script src="js/servicios.js"></script>
 </body>
 </html>

@@ -89,21 +89,22 @@ function slides(){
 
 /*TYPING*/ //Numeros Clientes
 let numeroJS = document.querySelectorAll(".num");
-let numerosArray = [318,1205,563];
+let numerosArray = [2001,1548,1452];
 
 function typing(position, segundos){
 	let contador = 0;
 	setInterval(function(){
 		if(contador<numerosArray[position]){
-			numeroJS[position].innerHTML = contador;
+			if (position == 0){
+				numeroJS[position].innerHTML = "+" + contador;
+			}else{
+				numeroJS[position].innerHTML = contador;
+			}
 			contador++;
 		}
 	},segundos)
 }
 
-typing(0, 10);
-typing(1, 0.5);
-typing(2, 10);
 
 
 //Carrusel2 - Recomendaciones De Personas
@@ -134,3 +135,17 @@ function slides2(){
 		},8000)
 	}
 }
+
+//Efecto Scroll
+//Efecto Scroll
+let uno_sola_vez = false;
+$(document).ready(function(){
+	$(window).scroll(function(){
+		if($(this).scrollTop()>500 && !uno_sola_vez){
+			typing(0, 0.5);
+			typing(1, 0.5);
+			typing(2, 0.5);
+			uno_sola_vez = true;
+		}
+	});
+});

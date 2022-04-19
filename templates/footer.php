@@ -12,8 +12,10 @@
 			<div class="bloqueFooter contactofooter">
 				<h3>Contacto.</h3>
 				<ul>
-					<li><b>Correo:</b> tusuministrovzla@gmail.com</li>
-					<li><b>Nro:</b> 0212-424-2684</li>
+					<li><b>Correos:</b></li>
+					<li><b></b> tusuministrovzla@gmail.com</li>
+					<li><b></b> tusuministro@hotmail.com</li>
+					<li><b>Teléfono:</b> 0212-424-2684</li>
 					<li><b>Whatsapp:</b> 0414-397-6743</li>
 					<li><b>Ubicación:</b> Plaza Venezuela, Torre Lincoln.</li>
 				</ul>
@@ -23,7 +25,6 @@
 				<ul>
 					<a href="https://www.facebook.com/129635842640282/" target="_blank"><li><i class="fa-brands fa-facebook-square"></i></li></a>
 					<a href="https://instagram.com/tusuministro" target="_blank"><li><i class="fa-brands fa-instagram-square"></i></li></a>
-					<a href="https://api.whatsapp.com/send?phone=584143976743&text=Hola%2c%20%20buenos%20d%C3%ADas" target="_blank"><li><i class="fa-brands fa-whatsapp-square"></i></li></a>
 				</ul>
 			</div>
 		</div>

@@ -18,7 +18,7 @@
 				<img src="/img/productos/articulos-oficina/sobres.jpg" alt="" />
 			</div>
 			<div class="producto">
-				<h3>Escritura</h3>
+				<h3>Marcadores.</h3>
 				<img src="/img/productos/articulos-oficina/escritura.jpg" alt="" />
 			</div>
 			<div class="producto">
@@ -57,11 +57,11 @@
 
 			$limpieza = '<div class="articulos">
 			<div class="producto">
-				<h3>Papel institucional</h3>
+				<h3>Papel institucional.</h3>
 				<img src="/img/productos/articulos-limpieza/papelrollo.jpg" alt="" />
 			</div>
 			<div class="producto">
-				<h3>Bolsas</h3>
+				<h3>Bolsas.</h3>
 				<img src="/img/productos/articulos-limpieza/bolsas.jpg" alt="" />
 			</div>
 			<div class="producto">
@@ -85,7 +85,7 @@
 				<img src="/img/productos/articulos-limpieza/papelera.jpg" alt="" />
 			</div>
 			<div class="producto">
-				<h3>Esponjas y lanillas</h3>
+				<h3>Esponjas y lanillas.</h3>
 				<img src="/img/productos/articulos-limpieza/esponjas.jpg" alt="" />
 			</div>
 			<div class="producto">
