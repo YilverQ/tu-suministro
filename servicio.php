@@ -77,6 +77,7 @@
 	<script type="text/javascript">
 		servicio = document.getElementById("noneID").innerHTML;
 		document.getElementById('titleTitle').innerHTML += servicio;
+		document.getElementById('titleTitle').innerHTML += " - Tu Suministro";
 	</script>
     <script src="js/boton_disabled.js"></script>
 </body>

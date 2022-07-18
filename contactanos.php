@@ -5,12 +5,12 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="ie-edge">
 	<meta name="author" content="Yilver Quevedo De Enclick Soluciones">
-	<meta name="keywords" content="Suminstros, Suministro, suministros de productos, Suministros en Caracas, suministros de papelería, papelería y artículos de oficina.">
+	<meta name="keywords" content="Suminstros, Suministro, suministros de productos, Suministros en Caracas, contacta con tu suministro.">
 	<meta name="description" content="No dudes en contactarnos, siempre estamos disponible para atenderte y ofrecerte tu inventario de suministros y así no tener que pasar malos ratos. ">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<!-- Title -->
-	<title>Tu Suministro - Contactanos, la mejor opción de suministros en Caracas.</title>
+	<title>Contacta con Tu Suministro, la mejor opción de suministros en Caracas.</title>
 
 	<!-- Estilos -->
 	<link rel="stylesheet" type="text/css" href="estilos/normalize.css">

@@ -5,12 +5,12 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="ie-edge">
 	<meta name="author" content="Yilver Quevedo De Enclick Soluciones">
-	<meta name="keywords" content="Suminstros, Suministro, Tu Suministros, Suministros en Caracas, suministros de papelería, papelería y artículos de oficina">
+	<meta name="keywords" content="Suminstros, Suministro, Tu Suministro, Suministros en Caracas, suministros de papelería, papelería y artículos de oficina">
 	<meta name="description" content="Somos una organización de amplia trayectoria dedicada a la venta de artículos de oficina, papelería, consumibles de impresión, material POP, material publicitario, bioproteccion, equipos de seguridad industrial, ubicada en la ciudad de Caracas.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<!-- Title -->
-	<title>Inicio - Tu suministro, la mejor opción en Caracas.</title>
+	<title>Tu Suministro, la mejor opción para ti.</title>
 
 	<!-- Estilos -->
 	<link rel="stylesheet" type="text/css" href="estilos/normalize.css">
