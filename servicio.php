@@ -58,10 +58,9 @@
 	<div class="identidad">
 		<h2><?php echo $servicios[$_GET['producto']]; ?>.</h2>
 		<?php
-
 			require_once("templates/productos.php");
-			$seleccionar = new Producto();
-			$seleccionar -> productosHTML($_GET['producto']); 
+			$products = new Producto($_GET['producto']);
+			echo $products->getProducts($_GET['producto']); 
 		?>
 	</div>
 

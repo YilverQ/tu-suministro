@@ -362,11 +362,12 @@ header.contenedor{
 }
 .articulos .producto{
     width: 250px;
-    height: 250px;
+    height: 280px;
     margin: 10px 5px;
     border-radius: 4px;
     border: 2px solid rgba(10, 10, 10, .2);
     overflow: hidden;
+    padding-top: 10px;
 }
 .articulos h3{
     font-family: fuente4;
