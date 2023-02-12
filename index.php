@@ -158,6 +158,14 @@
 				<p class="pensamiento">"¡Al fin lo encontré! Luego de buscar por varios días una guillotina de alto impacto, finalmente lo conseguí en Tu Suministro."</p>
 				<p class="pensador">David Gonzáles.</p>
 			</div>
+			<div class="contenido-slider2">
+				<p class="pensamiento">"He comprado varias veces en Tu Suministro, es una empresa que siempre me soluciona."</p>
+				<p class="pensador">José Luis Figeroa.</p>
+			</div>
+			<div class="contenido-slider2">
+				<p class="pensamiento">"Nos habían hablado maravillas de la empresa y la verdad es que no nos defraudó. Todo increíble."</p>
+				<p class="pensador">Carla Lisbeth Bello.</p>
+			</div>
 		</div>
 	</div>
 	
