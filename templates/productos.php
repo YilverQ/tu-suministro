@@ -118,14 +118,29 @@
 
 
 			$this->productos_impresos 	 	 = [];
-			$this->productos_bioproteccion  = [];
+
+
+			$this->productos_bioproteccion  = ['Alcohol antiséptico',
+				'Amonio cuaternario',
+				'Cubre botas',
+				'Faceshield',
+				'Gel antibacterial',
+				'Gorro enfermera',
+				'Guante de latex',
+				'Guante de nitrilo azul',
+				'Guante de nitrilo negro',
+				'Kn95 blanca',
+				'Kn95 negra',
+				'Mascarilla quirurgica azul'
+				
+			];
 			$this->productos_seguridad 	 = [];
 		
 			$this->lista_categorias = [ "oficina" => $this->productos_oficina,
 										"limpieza" 		=> $this->productos_limpieza,
 										"consumibles" 	=> $this->productos_consumibles,
 										"impresos" 		=> $this->productos_impresos,
-										"higiene" 		=> $this->productos_higiene,
+										"bioproteccion" => $this->productos_bioproteccion,
 										"proteccion" 	=> $this->productos_proteccion];
 
 			$this->lista_productos = $this->lista_categorias[$categoria];
