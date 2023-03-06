@@ -117,7 +117,18 @@
 			'Toners originales'];
 
 
-			$this->productos_impresos 	 	 = [];
+			$this->productos_impresos = ['Banderolas',
+					'Bolsas impresas',
+					'Franelas sublimadas',
+					'Hojas membretadas',
+					'Inflables publicitarios',
+					'Letras corporeas',
+					'Material pop',
+					'Pendones',
+					'Stands',
+					'Tarjetas de presentacion',
+					'Viniles',
+					'Volantes flyers'];
 
 
 			$this->productos_bioproteccion  = ['Alcohol antiséptico',

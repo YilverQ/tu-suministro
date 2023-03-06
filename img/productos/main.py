@@ -3,7 +3,7 @@ from PIL import Image
 import os
 
 if __name__ == '__main__':
-    URL_PATH = "/home/canaima/Documentos/projects/tu-suministro/img/productos/bioproteccion/"
+    URL_PATH = "/home/canaima/Documentos/projects/tu-suministro/img/productos/impresos/"
     for folderName, subfolders, filenames in os.walk(URL_PATH):
 	 
         for subfolder in subfolders:
