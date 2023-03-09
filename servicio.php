@@ -29,14 +29,18 @@
 					 "consumibles" => "Consumibles de impresión",
 					 "impresos" => "Impresos publicitarios y POP",
 					 "bioproteccion" => "Bioprotección",
-					 "seguridad" => "Equipos de protección industrial"];
+					 "seguridad" => "Equipos de protección industrial",
+					 "cafeteria" => "Insumos de cafetería",
+					 "desechables" => "Desechables",];
 
-		$conceptos =["oficina" => "Todo el material de papelería que necesitas para tu oficina, negocio o emprendimiento lo encontrarás acá, al mejor precio y con la garantía de las mejores marcas del mercado.",
-					 "limpieza" => "Trabajar en un lugar limpio y aseado siempre es lo deseado, para eso te ofrecemos productos de calidad, excelente rendimiento y precios inigualables.",
-					 "consumibles" => "No te quedes sin imprimir en ese momento tan importante, los mejores consumibles originales y compatibles los tenemos para ti.",
-					 "impresos" => "Soluciones gráficas para tu empresa, pendones, carpetas, tarjetas de presentación y material POP en un solo lugar.",
+		$conceptos =["oficina" 		 => "Todo el material de papelería que necesitas para tu oficina, negocio o emprendimiento lo encontrarás acá, al mejor precio y con la garantía de las mejores marcas del mercado.",
+					 "limpieza" 	 => "Trabajar en un lugar limpio y aseado siempre es lo deseado, para eso te ofrecemos productos de calidad, excelente rendimiento y precios inigualables.",
+					 "consumibles" 	 => "No te quedes sin imprimir en ese momento tan importante, los mejores consumibles originales y compatibles los tenemos para ti.",
+					 "impresos" 	 => "Soluciones gráficas para tu empresa, pendones, carpetas, tarjetas de presentación y material POP en un solo lugar.",
 					 "bioproteccion" => "El mundo cambió y para proteger tu salud contamos con los mejores productos del mercado, garantizando la Bioprotección del ambiente de trabajo y del personal que en él labore.",
-					 "seguridad" => "Trabajar seguro, sin riesgo y protegido es una regla. Por eso te ofrecemos productos con altos estándares de calidad y adaptados a normas internacionales."];
+					 "seguridad" 	 => "Trabajar seguro, sin riesgo y protegido es una regla. Por eso te ofrecemos productos con altos estándares de calidad y adaptados a normas internacionales.",
+					 "cafeteria" 	 => "Porque trabajar no lo es todo. Sabemos lo mucho que te gusta charlar y disfrutar de un buen bocadillo. Aquí tenemos productos de comida para tu oficina.",
+					 "desechables" 	 => "El ahorro económico y la higiene son ventajas de los productos desechables, ¿Qué esperas para adquirir los tuyos?"];
 	?>
 	<p id="noneID" style="display:none;"><?php echo $servicios[$_GET['producto']]; ?></p>
 

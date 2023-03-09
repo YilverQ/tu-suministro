@@ -44,25 +44,25 @@
 			<a href="/servicio.php?producto=oficina" onmouseover="pintar(0)" onmouseout="pintarDefault(0)">	
 				<div class="tarjeta">
 					<img src="img/servicios/papeleria-y-articulos-de-oficina.png" alt="articulos de oficina" />
-					<p class="itemP">Papelería y artículos de oficina.</p>
+					<p class="itemP">Papelería y artículos de oficina</p>
 				</div>
 			</a>
 			<a href="/servicio.php?producto=limpieza" onmouseover="pintar(1)" onmouseout="pintarDefault(1)">
 				<div class="tarjeta">
 					<img src="img/servicios/articulos-de-limpieza.png" alt="articulos de limpieza" />
-					<p class="itemP">Artículos de limpieza.</p>
+					<p class="itemP">Artículos de limpieza</p>
 				</div>
 			</a>
 			<a href="/servicio.php?producto=consumibles" onmouseover="pintar(2)" onmouseout="pintarDefault(2)">
 				<div class="tarjeta">
 					<img src="img/servicios/consumibles.png" alt="cartuchos de impresora" />
-					<p class="itemP">Consumibles de impresión.</p>
+					<p class="itemP">Consumibles de impresión</p>
 				</div>
 			</a>
 			<a href="/servicio.php?producto=impresos" onmouseover="pintar(3)" onmouseout="pintarDefault(3)">
 				<div class="tarjeta">
 					<img src="img/servicios/impresos-publicitarios-y-POP.png" alt="impresos publicitarios" />
-					<p class="itemP">Impresos publicitarios y POP.</p>
+					<p class="itemP">Impresos publicitarios y POP</p>
 				</div>
 			</a>
 			<a href="/servicio.php?producto=bioproteccion" onmouseover="pintar(4)" onmouseout="pintarDefault(4)">
@@ -74,7 +74,19 @@
 			<a href="/servicio.php?producto=seguridad" onmouseover="pintar(5)" onmouseout="pintarDefault(5)">
 				<div class="tarjeta">
 					<img src="img/servicios/seguridad-personal.png" alt="equipos de seguridad industrial" />
-					<p class="itemP">Equipos de seguridad industrial.</p>
+					<p class="itemP">Equipos de protección industrial</p>
+				</div>
+			</a>
+			<a href="/servicio.php?producto=cafeteria" onmouseover="pintar(6)" onmouseout="pintarDefault(6)">
+				<div class="tarjeta">
+					<img src="img/servicios/insumos-de-cafeteria.png" alt="insumos de cafetería" />
+					<p class="itemP">Insumos de cafetería</p>
+				</div>
+			</a>
+			<a href="/servicio.php?producto=desechables" onmouseover="pintar(7)" onmouseout="pintarDefault(7)">
+				<div class="tarjeta">
+					<img src="img/servicios/desechables.png" alt="Productos desechables" />
+					<p class="itemP">Desechables</p>
 				</div>
 			</a>
 		</div>

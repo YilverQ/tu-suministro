@@ -143,16 +143,37 @@
 				'Kn95 blanca',
 				'Kn95 negra',
 				'Mascarilla quirurgica azul'
-				
 			];
+
+
 			$this->productos_seguridad 	 = [];
+			
+			
+			$this->productos_cafeteria 	 = ['Agua',
+				'Azucar refinada',
+				'Bebidas energéticas',
+				'Café',
+				'Café expreso',
+				'Combo comida para empresas',
+				'Comidas para eventos',
+				'Gatorade',
+				'Jugos variados',
+				'Nestea',
+				'Refrescos',
+				'Te'];
+
+
+			$this->productos_desechables = [];
 		
-			$this->lista_categorias = [ "oficina" => $this->productos_oficina,
+
+			$this->lista_categorias = [ "oficina" 		=> $this->productos_oficina,
 										"limpieza" 		=> $this->productos_limpieza,
 										"consumibles" 	=> $this->productos_consumibles,
 										"impresos" 		=> $this->productos_impresos,
 										"bioproteccion" => $this->productos_bioproteccion,
-										"proteccion" 	=> $this->productos_proteccion];
+										"proteccion" 	=> $this->productos_proteccion,
+										"cafeteria" 	=> $this->productos_cafeteria,
+										"desechables" 	=> $this->pruductos_desechables];
 
 			$this->lista_productos = $this->lista_categorias[$categoria];
 			$this->categoria = $categoria;
