@@ -146,7 +146,54 @@
 			];
 
 
-			$this->productos_seguridad 	 = [];
+			$this->productos_seguridad 	 = ['Arnes de seguridad',
+					'Bota pvc cana corta',
+					'Bota pvc cana larga',
+					'Botas de seguridad',
+					'Bota soldador',
+					'Careta soldador',
+					'Cascos de seguridad',
+					'Chaleco carnaza',
+					'Chaleco vial',
+					'Conos de seguridad',
+					'Delantal de carnaza',
+					'Delantal pvc',
+					'Filtros 3m p100',
+					'Flitro 3m serie 6000',
+					'Guante bano de latex',
+					'Guante bloquero',
+					'Guante cavero',
+					'Guante de carnaza largo',
+					'Guante de latex amarillo',
+					'Guante de latex negro',
+					'Guante de lona',
+					'Guante de neopreno negro',
+					'Guante de nitrilo azul',
+					'Guante de nitrilo negro',
+					'Guante de nitrilo verde',
+					'Guante de precision mecanica',
+					'Guante de pvc rojo',
+					'Guante de vaqueta',
+					'Guante de vinyl azul',
+					'Guante de vinyl tipo examen',
+					'Guante malla de acero',
+					'guantes-de-carnaza',
+					'Guantes de panadero matfer 2',
+					'Guante tejido punto pvc',
+					'Impermeable amarillo',
+					'Jeans 3 costuras',
+					'Lentes de seguridad',
+					'Lentes monogafas',
+					'Mangas de carnaza',
+					'Mascarilla 3m 8210',
+					'Mascarilla doble liga n95',
+					'Prefiltro 3m 5n11',
+					'Protector auditivo',
+					'Protector auditivo orejera',
+					'Protector auditivo para casco',
+					'Protector facial con rachet',
+					'Respirador 3m',
+					'Respirador 3m 6800'];
 			
 			
 			$this->productos_cafeteria 	 = ['Agua',
@@ -164,6 +211,7 @@
 
 
 			$this->productos_desechables = [];
+			$this->productos_hoteleria = [];
 		
 
 			$this->lista_categorias = [ "oficina" 		=> $this->productos_oficina,
@@ -171,9 +219,10 @@
 										"consumibles" 	=> $this->productos_consumibles,
 										"impresos" 		=> $this->productos_impresos,
 										"bioproteccion" => $this->productos_bioproteccion,
-										"proteccion" 	=> $this->productos_proteccion,
+										"seguridad" 	=> $this->productos_seguridad,
 										"cafeteria" 	=> $this->productos_cafeteria,
-										"desechables" 	=> $this->pruductos_desechables];
+										"desechables" 	=> $this->pruductos_desechables,
+										"hoteleria" 	=> $this->productos_hoteleria];
 
 			$this->lista_productos = $this->lista_categorias[$categoria];
 			$this->categoria = $categoria;

@@ -90,6 +90,14 @@
 				</div>
 				</div>
 			</div>
+			<div class="contenido-slider">
+				<div class="sabana">
+				<div class="textoHEADER">
+					<h2>Hotelería.</h2>
+					<p>El ahorro económico y la higiene son ventajas de los productos desechables, ¿Qué esperas para adquirir los tuyos?</p>
+				</div>
+				</div>
+			</div>
 		</div>
 	</header>
 
@@ -144,6 +152,12 @@
 				<div class="tarjeta">
 					<img src="img/servicios/desechables.png" alt="Productos desechables" />
 					<p class="itemP">Desechables</p>
+				</div>
+			</a>
+			<a href="/servicio.php?producto=hoteleria" onmouseover="pintar(8)" onmouseout="pintarDefault(8)">
+				<div class="tarjeta">
+					<img src="img/servicios/desechables.png" alt="Productos de hotelería" />
+					<p class="itemP">Hotelería</p>
 				</div>
 			</a>
 		</div>
