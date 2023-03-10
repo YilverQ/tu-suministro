@@ -7,7 +7,8 @@ let definiciones = ["Lápices, bolígrafos, resmas, pizarras y mucho más.",
 					"Mascarillas, gel antibacterial, guantes y mucho más.",
 					"Botas, cascos, lentes, guantes y mucho más.",
 					"Café, comida para eventos, bebidas y mucho más",
-					"Bandejas de anime, vasos plásticos, bolsas plásticas y mucho más"];
+					"Bandejas de anime, vasos plásticos, bolsas plásticas y mucho más",
+					"Colchones, almohadas, sábanas, toallas y mucho más"];
 
 let definicionesDefault = [ "Papelería y artículos de oficina.",
 							"Artículos de oficina.",
@@ -16,7 +17,8 @@ let definicionesDefault = [ "Papelería y artículos de oficina.",
 							"Bioprotección.",
 							"Equipos de seguridad industrial.",
 							"Insumos de cafetería",
-							"Desechables"];
+							"Desechables",
+							"Hotelería"];
 
 let elementosP = document.querySelectorAll(".itemP");
 

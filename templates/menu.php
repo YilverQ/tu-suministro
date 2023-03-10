@@ -29,6 +29,7 @@
 					<a href="/servicio.php?producto=seguridad"><li>Equipos de protección industrial</li></a>
 					<a href="/servicio.php?producto=cafeteria"><li>Insumos de cafetería</li></a>
 					<a href="/servicio.php?producto=desechables"><li>Desechables</li></a>
+					<a href="/servicio.php?producto=hoteleria"><li>Hotelería</li></a>
 				</ul>
 				</div>
 			</li>

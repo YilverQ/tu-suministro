@@ -333,6 +333,14 @@ header.contenedor{
     background-position: center;
     background-attachment: fixed;
 }
+.sliderItem-hoteleria{
+    width: 100%;
+    height: 85vh;
+    background: url("../img/header/producto9.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
 
 .contenido-slider .textoHEADER{
     width: 550px;

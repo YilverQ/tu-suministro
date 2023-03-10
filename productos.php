@@ -89,9 +89,16 @@
 					<p class="itemP">Desechables</p>
 				</div>
 			</a>
+			<a href="/servicio.php?producto=hoteleria" onmouseover="pintar(8)" onmouseout="pintarDefault(8)">
+				<div class="tarjeta">
+					<img src="img/servicios/hoteleria.png" alt="Productos de hotelería" />
+					<p class="itemP">Hotelería</p>
+				</div>
+			</a>
 		</div>
 	</div>
 
+	
 	<!-- Boton Whatsapp -->
 	<?php include("templates/botonWhatsapp.php"); ?>
 
