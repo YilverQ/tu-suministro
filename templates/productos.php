@@ -15,7 +15,7 @@
 							'Cintas plásticas',
 							'Clip blinder',
 							'Clips',
-							'Clips Mariposa',
+							'Clips mariposa',
 							'Corrector líquido', 
 							'Encuadernación',
 							'Engrapadoras', 
@@ -40,7 +40,7 @@
 							'Saca grapas', 
 							'Sacapuntas',
 							'Separadores',
-							'set-de-escritorio', 
+							'Set de escritorio', 
 							'Sobre manila', 
 							'Sumadoras', 
 							'Teipes de embalaje',
@@ -56,6 +56,10 @@
 							'Contenedor de basura', 
 							'Desengrasante', 
 							'Desinfectante',
+							'Dispensador jabón líquido',
+							'Dispensador papel higienico',
+							'Dispensador toalla de mano',
+							'Dispensador toalla intercalada',
 							'Escoba', 
 							'Escobillon de techo', 
 							'Esponja doble uso',
@@ -67,7 +71,7 @@
 							'Jabón líquido multiuso', 
 							'Jabón líquido para las manos',
 							'Lanilla amarilla', 
-							'Limpiado de pocetas', 
+							'Limpiador de pocetas MAS', 
 							'Limpiador de pocetas', 
 							'Limpiadores de superficie',
 							'Limpia pocetas', 
@@ -79,6 +83,7 @@
 							'Papeleras plásticas', 
 							'Pastillas para pocetas', 
 							'Pipotes', 
+							'Secador de manos',
 							'Tobos', 
 							'Vensol'];
 
@@ -124,8 +129,8 @@
 						'Guante de látex',
 						'Guante de nitrilo azul',
 						'Guante de nitrilo negro',
-						'Kn95 blanca',
-						'Kn95 negra',
+						'KN95 blanca',
+						'KN95 negra',
 						'Mascarilla quirúrgica azul'
 					];
 
@@ -143,7 +148,7 @@
 					'Delantal de carnaza',
 					'Delantal pvc',
 					'Filtros 3m p100',
-					'Flitro 3m serie 6000',
+					'Filtro 3m serie 6000',
 					'Guante bano de látex',
 					'Guante bloquero',
 					'Guante cavero',
@@ -161,7 +166,7 @@
 					'Guante de vinyl azul',
 					'Guante de vinyl tipo examen',
 					'Guante malla de acero',
-					'guantes de carnaza',
+					'Guantes de carnaza',
 					'Guantes de panadero matfer 2',
 					'Guante tejido punto pvc',
 					'Impermeable amarillo',
@@ -225,7 +230,7 @@
 						'Toalla en espiral',
 						'Toalla en rollo',
 						'Toalla intercalada',
-						'Toallin cocina',
+						'Toallin de cocina',
 						'Vaso licorero',
 						'Vasos conicos',
 						'Vasos de cartón',
@@ -267,10 +272,11 @@
 		public function getProducts(){
 			$html = '<div class="articulos">';
 			foreach ($this->lista_productos as $producto){
-				$texto_minuscula_path = strtolower($producto);
+				#$texto_minuscula_path = strtolower($producto);
 				$html .= '<div class="producto">
 						<h3>' . $producto . '</h3>
-						<img src="/img/productos/'. $this->categoria .'/' . str_replace(' ', '-', $texto_minuscula_path) . '.jpg" alt="'. $producto . '" />
+						<img src="/img/productos/'. $this->categoria .'/' . str_replace(' ', '-', $producto
+							) . '.jpg" alt="'. $producto . '" />
 						</div>';
 			};
 
