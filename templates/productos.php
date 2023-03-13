@@ -210,7 +210,44 @@
 						'Te'];
 
 
-			$this->productos_desechables = [];
+			$this->productos_desechables = ['Bandeja de aluminio',
+						'Bandeja de anime',
+						'Bolsa celofán',
+						'Bolsa de asa',
+						'Bolsa de basura negra',
+						'Bolsa desechos peligrosos',
+						'Bolsas cierre hermetico',
+						'Bolsa sellado al vacio',
+						'Bolsas para papeleras',
+						'Bolsas transparentes',
+						'Contenedor mixto',
+						'Contenedor plástico-negro',
+						'Contenedor transparente',
+						'Cubiertos desechables',
+						'Envase lunchero',
+						'Envoltura alimentos',
+						'Papel aluminio',
+						'Papel envoltura alimentos',
+						"Papel higienico 9''",
+						'Papel higienico hogar',
+						'Papel kraft',
+						'Papel para camilla',
+						'Pitillos negros',
+						'Pitillos transparentes',
+						'Platos plásticos',
+						'Removedores de café',
+						'Servilletas',
+						'Strech film',
+						'Toalla en espiral',
+						'Toalla en rollo',
+						'Toalla intercalada',
+						'Toallin cocina',
+						'Vaso licorero',
+						'Vasos conicos',
+						'Vasos de cartón',
+						'Vasos plásticos'];
+
+
 			$this->productos_hoteleria = ['Almohadas',
 						'Batas',
 						'Carros de alimentos',
@@ -236,7 +273,7 @@
 										"bioproteccion" => $this->productos_bioproteccion,
 										"seguridad" 	=> $this->productos_seguridad,
 										"cafeteria" 	=> $this->productos_cafeteria,
-										"desechables" 	=> $this->pruductos_desechables,
+										"desechables" 	=> $this->productos_desechables,
 										"hoteleria" 	=> $this->productos_hoteleria];
 
 			$this->lista_productos = $this->lista_categorias[$categoria];
