@@ -57,7 +57,7 @@
 							'Desengrasante', 
 							'Desinfectante',
 							'Dispensador de jabón líquido',
-							'Dispensador de papel higienico',
+							'Dispensador de papel higiénico',
 							'Dispensador toalla de mano',
 							'Dispensador toalla intercalada',
 							'Escoba', 

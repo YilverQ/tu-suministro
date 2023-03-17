@@ -25,6 +25,7 @@
 				<ul>
 					<a href="https://www.facebook.com/129635842640282/" target="_blank"><li><i class="fa-brands fa-facebook-square"></i></li></a>
 					<a href="https://instagram.com/tusuministro" target="_blank"><li><i class="fa-brands fa-instagram-square"></i></li></a>
+					<a href="https://twitter.com/tusuministrove" target="_blank"><li><i class="fa-brands fa-twitter-square"></i></li></a>
 				</ul>
 			</div>
 		</div>
