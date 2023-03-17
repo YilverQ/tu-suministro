@@ -189,7 +189,7 @@
 		<h3>¡Qué opinan nuestros clientes!</h3>
 		<div class="slider-contenedor2">
 			<div class="contenido-slider2">
-				<p class="pensamiento">"Fue una excelente opción, tener un sólo proveedor que nos ofreciera el suministros de los artículos de oficina, nos ahorró tiempo y dinero."</p>
+				<p class="pensamiento">"Fue una excelente opción, tener un sólo proveedor que nos ofreciera el suministro de los artículos de oficina, nos ahorró tiempo y dinero."</p>
 				<p class="pensador">Juan Luis Hurtado.</p>
 			</div>
 			<div class="contenido-slider2">
@@ -197,12 +197,12 @@
 				<p class="pensador">María Gabriela Alvarado.</p>
 			</div>
 			<div class="contenido-slider2">
-				<p class="pensamiento">"¡Al fin lo encontré! Luego de buscar por varios días una guillotina de alto impacto, finalmente lo conseguí en Tu Suministro."</p>
+				<p class="pensamiento">"¡Al fin lo encontré! Luego de buscar por varios días una guillotina de alto impacto, finalmente la conseguí en Tu Suministro."</p>
 				<p class="pensador">David Gonzáles.</p>
 			</div>
 			<div class="contenido-slider2">
 				<p class="pensamiento">"He comprado varias veces en Tu Suministro, es una empresa que siempre me soluciona."</p>
-				<p class="pensador">José Luis Figeroa.</p>
+				<p class="pensador">José Luis Figueroa.</p>
 			</div>
 			<div class="contenido-slider2">
 				<p class="pensamiento">"Nos habían hablado maravillas de la empresa y la verdad es que no nos defraudó. Todo increíble."</p>

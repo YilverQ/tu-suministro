@@ -38,11 +38,11 @@
 					 "limpieza" 	 => "Trabajar en un lugar limpio y aseado siempre es lo deseado, para eso te ofrecemos productos de calidad, excelente rendimiento y precios inigualables.",
 					 "consumibles" 	 => "No te quedes sin imprimir en ese momento tan importante, los mejores consumibles originales y compatibles los tenemos para ti.",
 					 "impresos" 	 => "Soluciones gráficas para tu empresa, pendones, carpetas, tarjetas de presentación y material POP en un solo lugar.",
-					 "bioproteccion" => "El mundo cambió y para proteger tu salud contamos con los mejores productos del mercado, garantizando la Bioprotección del ambiente de trabajo y del personal que en él labore.",
+					 "bioproteccion" => "El mundo cambió y para proteger tu salud contamos con los mejores productos del mercado, garantizando la bioprotección del ambiente de trabajo y del personal que en él labora.",
 					 "seguridad" 	 => "Trabajar seguro, sin riesgo y protegido es una regla. Por eso te ofrecemos productos con altos estándares de calidad y adaptados a normas internacionales.",
-					 "cafeteria" 	 => "Porque trabajar no lo es todo. Sabemos lo mucho que te gusta charlar y disfrutar de un buen bocadillo. Aquí tenemos productos de comida para tu oficina.",
+					 "cafeteria" 	 => "Porque trabajar no lo es todo, sabemos lo mucho que te gusta charlar y disfrutar de una buena merienda e hidratación. Consulta lo que podemos ofrecerte.",
 					 "desechables" 	 => "El ahorro económico y la higiene son ventajas de los productos desechables, ¿Qué esperas para adquirir los tuyos?",
-					 "hoteleria" 	 => "Para mejorar la experiencia de su huésped tenemos una variedad de productos que le ayudará con su descanso"];
+					 "hoteleria" 	 => "Para mejorar la experiencia de tus huéspedes, nuestros productos harán que un buen descanso no sea un problema."];
 	?>
 	<p id="noneID" style="display:none;"><?php echo $servicios[$_GET['producto']]; ?></p>
 

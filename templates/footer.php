@@ -29,7 +29,7 @@
 			</div>
 		</div>
 		<div class="ultimo">
-			<p>Copyright 2022 <i class="fa-solid fa-copyright"></i> - Tu Suministros - Todos Los Derechos Reservados.</p>
+			<p>Copyright 2022 <i class="fa-solid fa-copyright"></i> - Tu Suministro - Todos Los Derechos Reservados.</p>
 		</div>
 	</footer>
 <!-- Final -->

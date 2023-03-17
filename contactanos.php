@@ -29,7 +29,7 @@
 				<div class="sabana">
 				<div class="textoHEADER">
 					<h1>Contactanos.</h1>
-					<p>No dudes en contactarnos para tener siempre tu inventario de suministros y evitar malos momentos.</p>
+					<p>No dudes en contactarnos para tener siempre tu inventario al día y evitar malos momentos.</p>
 				</div>
 				</div>
 			</div>
